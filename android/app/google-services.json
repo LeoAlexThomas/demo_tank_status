@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447136919388",
+    "project_id": "fir-tank-status",
+    "storage_bucket": "fir-tank-status.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447136919388:android:270425737afffbdca69b99",
+        "android_client_info": {
+          "package_name": "com.example.demo_tank_status"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDrFOkhp1QIy03Mxb_d0PvlotwoVu0uEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
